@@ -5,7 +5,7 @@ table {
     margin-top: 20px;
 }
 
-article h1
+article h2
 {
     padding: 2vw;
     text-align: center;
@@ -31,12 +31,12 @@ tbody td {
     padding: 1vw;
 }
 
-tr #blau
+tr .blau
 {
     background-color: #6c6dac;
 }
 
-tr #verd
+tr .verd
 {
     background-color: #70ac6c;
 
