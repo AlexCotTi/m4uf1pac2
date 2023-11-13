@@ -23,21 +23,28 @@ article h3
     margin-top: 1vh;
 }
 
-aside h2
-{
-    display: inline-block;
-    margin-left: 5vw;
+aside{
+    text-align: center;
 }
 
-aside p
-{
+aside p{
     display: inline-block;
-    margin-left: 5vw;
+    margin-right: 6vw;
+    margin-left: 6vw;
 }
+
+.contenedor {
+    height: 65vh; 
+    text-align: center; 
+    display: table; 
+    width: 100%; 
+  }
 
 article img {
-    margin-left: 2vw;
-    float: left;
+
     border: 2px solid #000;
     border-radius: 6px;
+    display: inline-block;
+    max-width: 100%;
+    height: auto;
 }
