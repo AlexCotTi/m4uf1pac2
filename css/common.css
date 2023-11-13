@@ -5,6 +5,10 @@
     background-color: rgb(211, 211, 211);
 }
 
+body {
+    font-family: 'Comic Sans MS';
+}
+
 header
 {
     height: 12vh;

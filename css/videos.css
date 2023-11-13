@@ -1,0 +1,45 @@
+article h1{
+    padding: 3vh;
+    text-align: center;
+}
+
+
+#video1
+{
+    padding: 2vw;
+    float: left;
+    margin-left: 2vw;
+    box-sizing: border-box;
+    background-color: #8f1414;
+    border: 2px solid #000;
+    border-radius: 10px;
+    width: 46%;
+}
+
+#video2
+{
+    padding: 2vw;
+    margin-left: 4vw;
+    box-sizing: border-box;
+    background-color: #8f1414;
+    border: 2px solid #000;
+    border-radius: 10px;
+    width: 46%;
+}
+.contenidor{
+    height: 65vh; 
+    text-align: center; 
+    display: table; 
+    width: 100%; 
+  }
+
+#video3
+{
+    margin-top: 5vh;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: #8f1414;
+    border: 2px solid #000;
+    border-radius: 10px;
+    width: 53.7%;
+}
