@@ -17,7 +17,7 @@ main ul {
 label {
     display: block;
     text-align: center;
-    margin-left:23vh ; 
+    margin-left:22.3vh ; 
     width: 20%;
     margin-bottom: 2vh;
 }
@@ -41,7 +41,7 @@ button {
     background-color: #af4c4c;
     font-family: 'Comic Sans MS';
     color: white;
-    margin-left: 17.5vh;       
+    margin-left: 17vh;       
     padding: 1.5vh 2.5vh;
     border: 1px solid #000000;
     border-radius: 4px;
